@@ -8,7 +8,7 @@
 
 ## About me 👤
 * Name: Eliza
-* Age: 18
+* Age: 19
 * Loves: Anime, rhythm games, conlangs
 * Gender: she/her (Female)
 * Hobbys: Tech stuff, conlangs, retrocomputing, web development
