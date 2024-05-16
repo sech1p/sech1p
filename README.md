@@ -13,6 +13,7 @@
 * Gender: she/her (Female)
 * Hobbys: Tech stuff, conlangs, retrocomputing, web development
 * Working?: None
+* [Website](https://sech1p.ovh)
 
 ## Technologies I use on a daily basis 💻
 [![React logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
