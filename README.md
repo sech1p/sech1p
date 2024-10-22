@@ -18,3 +18,4 @@
 [![TypeScript logo](https://readme-components.vercel.app/api?component=logo&logo=typescript)](https://github.com/harish-sethuraman/readme-components)
 [![C++ logo](https://readme-components.vercel.app/api?component=logo&logo=cplusplus)](https://github.com/harish-sethuraman/readme-components)
 [![C# logo](https://readme-components.vercel.app/api?component=logo&logo=csharp)](https://github.com/harish-sethuraman/readme-components)
+[![Flutter logo](https://readme-components.vercel.app/api?component=logo&logo=flutter)](https://github.com/harish-sethuraman/readme-components)
