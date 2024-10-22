@@ -16,4 +16,5 @@
 ## Technologies I use on a daily basis 💻
 [![React logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
 [![TypeScript logo](https://readme-components.vercel.app/api?component=logo&logo=typescript)](https://github.com/harish-sethuraman/readme-components)
+[![C++ logo](https://readme-components.vercel.app/api?component=logo&logo=cplusplus)](https://github.com/harish-sethuraman/readme-components)
 [![C# logo](https://readme-components.vercel.app/api?component=logo&logo=csharp)](https://github.com/harish-sethuraman/readme-components)
