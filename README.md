@@ -7,9 +7,9 @@
 ## About me 👤
 * Name: Eliza
 * Age: 19
-* Loves: Anime, rhythm games, conlangs
+* Loves: Minecraft, rhythm games, my gf, and sleeping
 * Gender: she/her (Female)
-* Hobbys: Tech stuff, conlangs, retrocomputing, web development
+* Hobbys: Computers, video games, anime, music production, graphics design
 * Working?: None
 * [Website](https://sech1p.ovh)
 
