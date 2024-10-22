@@ -12,6 +12,7 @@
 * Hobbys: Computers, video games, anime, music production, graphics design
 * Working?: None
 * [Website](https://sech1p.ovh)
+* [Portfolio](https://sech1p.art)
 
 ## Technologies I use on a daily basis 💻
 [![Svelte logo](https://readme-components.vercel.app/api?component=logo&logo=svelte)](https://github.com/harish-sethuraman/readme-components)
