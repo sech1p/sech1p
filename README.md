@@ -6,13 +6,26 @@
 
 ## About me 👤
 * Name: Eliza
-* Age: 19
-* Loves: Minecraft, rhythm games, my gf, and sleeping
+* Age: 20
 * Gender: she/her (Female)
-* Hobbys: Computers, video games, anime, music production, graphics design
 * Working?: None
 * [Website](https://sech1p.ovh)
 * [Portfolio](https://sech1p.art)
+
+## Projects 💻
+
+### Released 👩‍💻
+
+* [🦈 blahaj](https://github.com/sech1p/blahaj) - Displays IKEA's plush shark and colors text to pride colors in your Terminal.
+* [🎶 Apple Music Discord Presence](https://github.com/sech1p/AppleMusic_Discord_RPC) - Displays currently played song on Apple Music on your Discord status.
+  
+### Work In Progress 📝
+
+* 🎶 oshiteru - Server emulator of early versions of osu! from 2007. (prerelease date: Spring 2025)
+* 💊 Soberity Streak 2 - Mobile application to tracking addictions. (prerelease date: Spring 2025)
+* 🌐 navi - Web browser for jilted generations. (release date: TBA)
+* 🤖 hope - Multifunctional bot for few communicators. (release date: TBA)
+* 🏳️‍🌈🏳️‍⚧️ Sapphify - meet/dating application for Sapphics. (release date: TBA, project halted)
 
 ## Technologies I use on a daily basis 💻
 [![Svelte logo](https://readme-components.vercel.app/api?component=logo&logo=svelte)](https://github.com/harish-sethuraman/readme-components)
