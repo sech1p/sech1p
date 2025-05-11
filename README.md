@@ -30,8 +30,13 @@
 ## Technologies I use on a daily basis 💻
 [![Svelte logo](https://readme-components.vercel.app/api?component=logo&logo=svelte)](https://github.com/harish-sethuraman/readme-components)
 [![Tailwind logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss)](https://github.com/harish-sethuraman/readme-components)
+[![Fastify logo](https://readme-components.vercel.app/api?component=logo&logo=fastify)](https://github.com/harish-sethuraman/readme-components)
+[![PostgreSQL logo](https://readme-components.vercel.app/api?component=logo&logo=postgresql)](https://github.com/harish-sethuraman/readme-components)
 [![TypeScript logo](https://readme-components.vercel.app/api?component=logo&logo=typescript)](https://github.com/harish-sethuraman/readme-components)
 [![C++ logo](https://readme-components.vercel.app/api?component=logo&logo=cplusplus)](https://github.com/harish-sethuraman/readme-components)
+[![Go logo](https://readme-components.vercel.app/api?component=logo&logo=go)](https://github.com/harish-sethuraman/readme-components)
 [![C# logo](https://readme-components.vercel.app/api?component=logo&logo=csharp)](https://github.com/harish-sethuraman/readme-components)
 [![Flutter logo](https://readme-components.vercel.app/api?component=logo&logo=flutter)](https://github.com/harish-sethuraman/readme-components)
 [![Godot logo](https://readme-components.vercel.app/api?component=logo&logo=godotengine)](https://github.com/harish-sethuraman/readme-components)
+
+Also using TW Elements with Tailwind and Material UI 3.0. Sometimes in bigger projects I used to using Preact instead of Svelte
