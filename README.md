@@ -41,3 +41,9 @@
 [![Godot logo](https://readme-components.vercel.app/api?component=logo&logo=godotengine)](https://github.com/harish-sethuraman/readme-components)
 
 Also using TW Elements with Tailwind and Material UI 3.0. Sometimes in bigger projects I used to using Preact instead of Svelte.
+
+## FAQ ❓
+
+- What device are you using?
+
+Devices which I using are listed on my website in [Machines section](http://sech1p.ovh/machines.php)
