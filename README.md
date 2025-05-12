@@ -35,8 +35,9 @@
 [![TypeScript logo](https://readme-components.vercel.app/api?component=logo&logo=typescript)](https://github.com/harish-sethuraman/readme-components)
 [![C++ logo](https://readme-components.vercel.app/api?component=logo&logo=cplusplus)](https://github.com/harish-sethuraman/readme-components)
 [![Go logo](https://readme-components.vercel.app/api?component=logo&logo=go)](https://github.com/harish-sethuraman/readme-components)
+[![Haxe logo](https://readme-components.vercel.app/api?component=logo&logo=haxe)](https://github.com/harish-sethuraman/readme-components)
 [![C# logo](https://readme-components.vercel.app/api?component=logo&logo=csharp)](https://github.com/harish-sethuraman/readme-components)
 [![Flutter logo](https://readme-components.vercel.app/api?component=logo&logo=flutter)](https://github.com/harish-sethuraman/readme-components)
 [![Godot logo](https://readme-components.vercel.app/api?component=logo&logo=godotengine)](https://github.com/harish-sethuraman/readme-components)
 
-Also using TW Elements with Tailwind and Material UI 3.0. Sometimes in bigger projects I used to using Preact instead of Svelte
+Also using TW Elements with Tailwind and Material UI 3.0. Sometimes in bigger projects I used to using Preact instead of Svelte.
