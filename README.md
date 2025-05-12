@@ -3,7 +3,7 @@
 **I'm Eliza. I'm software enginner from Poland. Nice to meet you!**
 
 [![sech1p's GitHub stats](https://github-readme-stats.vercel.app/api?username=sech1p)](https://github.com/anuraghazra/github-readme-stats)
-[![sech1p's Discord profile](https://disi-api.bennynguyen.dev/largecard/670366060872073276?&bg1=D42CCB&bg2=9C20C9&activity=true&mood=true&pronouns=she%2Fher&wantBannerImage=true =300x250)
+<img src="https://disi-api.bennynguyen.dev/largecard/670366060872073276?&bg1=D42CCB&bg2=9C20C9&activity=true&mood=true&pronouns=she%2Fher&wantBannerImage=true" width="350" height="200">
 
 ## About me 👤
 * Name: Eliza
